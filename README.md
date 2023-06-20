@@ -36,7 +36,7 @@ TA - TE - TI utiliza la biblioteca `canvas-confetti` para generar efectos visual
 
 ## Uso
 
-1. Accede a [TA - TE - TI](https://tate-ti-app.com) desde tu navegador web.
+1. Accede desde tu navegador web.
 2. Haz clic en "Nuevo Juego" para comenzar una partida.
 3. La partida se jugará por turnos entre dos jugadores. Uno utilizará una cruz roja y el otro una pelotita blanca.
 4. Haz clic en una casilla vacía para colocar tu insignia (cruz o pelotita).
